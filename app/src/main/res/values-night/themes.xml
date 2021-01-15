@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.Map" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:fontFamily">@font/iran_sans_family</item>
+        <item name="fontFamily">@font/iran_sans_family</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>
